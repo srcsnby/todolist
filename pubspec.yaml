@@ -1,0 +1,41 @@
+name: calisma
+description: A Muslim's To-Do List App with SQLite Database
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # SQLite database - Local storage için
+  sqflite: ^2.3.0
+  
+  # Path operations - Database dosya yolu için
+  path: ^1.8.3
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Assets (resimler için)
+  assets:
+    - images/
+
+  # Fonts (eğer kullanıyorsanız)
+  fonts:
+    - family: Montserrat
+      fonts:
+        
+        
