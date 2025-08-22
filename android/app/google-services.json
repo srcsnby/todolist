@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "742196104477",
+    "firebase_url": "https://to-do-list-b75af-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "to-do-list-b75af",
+    "storage_bucket": "to-do-list-b75af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742196104477:android:6b365488103bbd19e9e5f4",
+        "android_client_info": {
+          "package_name": "com.example.todolist2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742196104477-o5ami5rh7oot06jq9070u54a2q8fg0fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todolist2",
+            "certificate_hash": "3fdc2bf128d08628cf7a33b996866f3d8596dcdb"
+          }
+        },
+        {
+          "client_id": "742196104477-q58dlv5sr4f3gkdoft0c50hq9i2pj95u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-1To_pb2f06FlXID_pxPATTFoWeXP3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742196104477-q58dlv5sr4f3gkdoft0c50hq9i2pj95u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742196104477-vk383ktmh5lmo451psdfpqts59b028jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muslim.todolist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742196104477:android:6f564b5e659a105ee9e5f4",
+        "android_client_info": {
+          "package_name": "com.muslim.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742196104477-tjenvv5sk021ojmp9i4kt88lfvp1vh5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muslim.todolist",
+            "certificate_hash": "3fdc2bf128d08628cf7a33b996866f3d8596dcdb"
+          }
+        },
+        {
+          "client_id": "742196104477-q58dlv5sr4f3gkdoft0c50hq9i2pj95u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-1To_pb2f06FlXID_pxPATTFoWeXP3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742196104477-q58dlv5sr4f3gkdoft0c50hq9i2pj95u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742196104477-vk383ktmh5lmo451psdfpqts59b028jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muslim.todolist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
